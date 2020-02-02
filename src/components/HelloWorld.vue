@@ -8,8 +8,9 @@ export default {
 };
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+    $primary-color: green;
     h1  {
-        color: green;
+        color: $primary-color;
     }
 </style>
